@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pepe.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pepe"
+              "title": "index"
             }
           }
         ],
@@ -206,7 +206,7 @@
   },
   "active": "c4252dbffbbac05b",
   "lastOpenFiles": [
-    "index.md",
-    "Pepe.md"
+    "Pepe.md",
+    "index.md"
   ]
 }
