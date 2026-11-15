@@ -1,1 +1,0 @@
-Pepe es pepe, sin acento.
