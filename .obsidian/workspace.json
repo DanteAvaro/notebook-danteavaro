@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "content/proposal/pepe2.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "pepe2"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "jo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,11 +203,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c4252dbffbbac05b",
+  "active": "bdccc94aba827ffa",
   "lastOpenFiles": [
+    "content/Pepe.md",
     "content/index.md",
     "content/jo.md",
-    "content/Pepe.md",
+    "CHANGELOG.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md",
     "index.md",
     "Pepe.md"
   ]

@@ -1,0 +1,16 @@
+# Notebook de Dante Avaro
+
+> Notas de investigación, ensayos y apuntes estructurados sobre [completar con tus temas principales, ej. filosofía política, instituciones y epistemología].
+
+Este sitio publica notas atómicas y ensayos breves en formato HTML estático limpio. Cada página contiene definiciones directas, referencias bibliográficas y enlaces conceptuales.
+
+## Índice principal
+
+- [Inicio](https://danteavaro.biz): Presentación general y mapa de temas del notebook.
+- [Título de tu nota clave 1](https://danteavaro.bizruta-de-la-nota-1): Resumen de una oración sobre qué explica esta nota.
+- [Título de tu nota clave 2](https://danteavaro.bizruta-de-la-nota-2): Resumen de una oración sobre qué explica esta nota.
+
+## Notas y recursos adicionales
+
+- [Mapa completo del sitio (XML)](https://danteavaro.bizsitemap.xml): Listado completo y actualizado de todas las URLs publicadas.
+- [Canal RSS](https://danteavaro.bizindex.xml): Actualizaciones recientes del notebook.
